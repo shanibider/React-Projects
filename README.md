@@ -21,11 +21,13 @@ This collection encompasses various exercises and practices covering Front-End d
 
 ### 2. React Development
 
+- [ ] front-end development with React.
 - [ ] React components.
 - [ ] React Props.
 - [ ] JSX syntax and React DOM.
 - [ ] state management and React Hooks.
 - [ ] conditional rendering.
+- [ ] The difference between class and functional components.
 
 <br> 
 
