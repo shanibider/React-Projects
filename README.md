@@ -22,15 +22,22 @@ designed to showcase various aspects of React development and can serve as learn
 - [x] React Props
 
 
+## Previews 🖼:
+![1](https://github.com/shanibider/React-Projects/assets/72359805/fda9390a-5998-4a66-9f30-84587f0f6461)
 
+![2](https://github.com/shanibider/React-Projects/assets/72359805/32ce91ed-5279-499f-9a76-db78d7de53ff)
 
+![3](https://github.com/shanibider/React-Projects/assets/72359805/7e988c02-4ea8-4ddb-ab3a-eecbcb3e12c3)
 
+![4](https://github.com/shanibider/React-Projects/assets/72359805/b327cc47-ca0a-4798-ae04-fe4d06ec29d3)
 
+![5](https://github.com/shanibider/React-Projects/assets/72359805/42e81f90-0953-44bf-9403-6b4b659f6095)
 
+![6](https://github.com/shanibider/React-Projects/assets/72359805/b4756030-dce8-41f4-a39e-86886c260fa6)
 
+![7](https://github.com/shanibider/React-Projects/assets/72359805/7a80473a-8eb8-42e3-8aa2-4aec6de3faac)
 
-
-
+![8](https://github.com/shanibider/React-Projects/assets/72359805/df46157b-e5df-4cfc-95d2-ec3521c89e1a)
 
 
 
