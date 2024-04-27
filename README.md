@@ -23,21 +23,40 @@ designed to showcase various aspects of React development and can serve as learn
 
 
 ## Previews 🖼:
+
+#### React Props + Mapping Data to Components:
 ![1](https://github.com/shanibider/React-Projects/assets/72359805/fda9390a-5998-4a66-9f30-84587f0f6461)
 
+#### Mapping Data to Components Practice:
 ![2](https://github.com/shanibider/React-Projects/assets/72359805/32ce91ed-5279-499f-9a76-db78d7de53ff)
 
+#### useState Practice:
 ![3](https://github.com/shanibider/React-Projects/assets/72359805/7e988c02-4ea8-4ddb-ab3a-eecbcb3e12c3)
 
+#### useState:
 ![4](https://github.com/shanibider/React-Projects/assets/72359805/b327cc47-ca0a-4798-ae04-fe4d06ec29d3)
 
 ![5](https://github.com/shanibider/React-Projects/assets/72359805/42e81f90-0953-44bf-9403-6b4b659f6095)
 
+#### Changing Complex State:
 ![6](https://github.com/shanibider/React-Projects/assets/72359805/b4756030-dce8-41f4-a39e-86886c260fa6)
 
 ![7](https://github.com/shanibider/React-Projects/assets/72359805/7a80473a-8eb8-42e3-8aa2-4aec6de3faac)
 
+#### Spread Operator + Changing Complex State Practice:
 ![8](https://github.com/shanibider/React-Projects/assets/72359805/df46157b-e5df-4cfc-95d2-ec3521c89e1a)
+
+#### Event Handeling + React Forms:
+![9](https://github.com/shanibider/React-Projects/assets/72359805/13b6feeb-db09-433b-b5a2-16d160c2b3a4)
+
+#### Spread Operator Practice + Managing a component Tree:
+![10](https://github.com/shanibider/React-Projects/assets/72359805/20fe3fb2-1659-432f-be74-bc2ce5aa67d5)
+
+
+
+
+
+
 
 
 
