@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 
 function App() {
+  // useState to store the contact details
   const [contact, setContact] = useState({
     fName: "",
     lName: "",
@@ -8,9 +9,12 @@ function App() {
   });
 
   function handleChange(event) {
+    // Destructuring the event object to get the name and value of the input field
     const { name, value } = event.target;
 
+    // prevValue is the previous state value
     setContact(prevValue => {
+      // if the first name field is changed, update the fName property
       if (name === "fName") {
         return {
           fName: value,

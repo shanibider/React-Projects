@@ -5,6 +5,8 @@ import InputArea from "./InputArea";
 function App() {
   const [items, setItems] = useState([]);
 
+
+  // function to add item to the list
   function addItem(inputText) {
     setItems(prevItems => {
       return [...prevItems, inputText];
@@ -24,6 +26,7 @@ function App() {
       <div className="heading">
         <h1>To-Do List</h1>
       </div>
+      {/* Add InputArea component with 'onAdd' as props */}
       <InputArea onAdd={addItem} />
       <div>
         <ul>

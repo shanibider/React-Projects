@@ -1,24 +1,30 @@
 import React, { useState } from "react";
 
 function App() {
+  // fullName stores the first name and last name
   const [fullName, setFullName] = useState({
     fName: "",
     lName: ""
   });
 
+
+  // Event handler for input field change
   function handleChange(event) {
     const { value, name } = event.target;
 
+    // Updating the fullName state based on the input field changed
     setFullName(prevValue => {
       if (name === "fName") {
+        // If the first name field is changed, update the fName property
         return {
           fName: value,
           lName: prevValue.lName
         };
       } else if (name === "lName") {
+        // If the last name field is changed, update the lName property
         return {
           fName: prevValue.fName,
-          lname: value
+          lName: value8
         };
       }
     });

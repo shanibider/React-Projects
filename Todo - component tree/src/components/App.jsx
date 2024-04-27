@@ -1,15 +1,22 @@
 import React, { useState } from "react";
 import ToDoItem from "./ToDoItem";
 
+
 function App() {
+  // set the initial state for the input text and items:
   const [inputText, setInputText] = useState("");
   const [items, setItems] = useState([]);
 
+
+  // Implement a handler for the input change event. This function sets the value of the input text
   function handleChange(event) {
     const newValue = event.target.value;
     setInputText(newValue);
   }
 
+
+  // called when the button is clicked.
+  // Adds the current input text to the list of items and clears the input text
   function addItem() {
     setItems(prevItems => {
       return [...prevItems, inputText];
@@ -17,6 +24,8 @@ function App() {
     setInputText("");
   }
 
+
+  // removes the item from the list of items based on its index:
   function deleteItem(id) {
     setItems(prevItems => {
       return prevItems.filter((item, index) => {
@@ -24,6 +33,8 @@ function App() {
       });
     });
   }
+
+
 
   return (
     <div className="container">
@@ -37,7 +48,9 @@ function App() {
         </button>
       </div>
       <div>
+
         <ul>
+        {/* ToDoItem component is used in the App component to render each individual to-do item in the list. */}
           {items.map((todoItem, index) => (
             <ToDoItem
               key={index}
@@ -47,6 +60,7 @@ function App() {
             />
           ))}
         </ul>
+        
       </div>
     </div>
   );
