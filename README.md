@@ -41,16 +41,12 @@ designed to showcase various aspects of React development and can serve as learn
 #### Changing Complex State:
 ![6](https://github.com/shanibider/React-Projects/assets/72359805/b4756030-dce8-41f4-a39e-86886c260fa6)
 
-![7](https://github.com/shanibider/React-Projects/assets/72359805/7a80473a-8eb8-42e3-8aa2-4aec6de3faac)
 
 #### Spread Operator + Changing Complex State Practice:
 ![8](https://github.com/shanibider/React-Projects/assets/72359805/df46157b-e5df-4cfc-95d2-ec3521c89e1a)
 
 #### Event Handeling + React Forms:
 ![9](https://github.com/shanibider/React-Projects/assets/72359805/13b6feeb-db09-433b-b5a2-16d160c2b3a4)
-
-#### Spread Operator Practice + Managing a component Tree:
-![10](https://github.com/shanibider/React-Projects/assets/72359805/20fe3fb2-1659-432f-be74-bc2ce5aa67d5)
 
 
 
